@@ -172,7 +172,7 @@ http://localhost:3000
 
 # Video Demo
 
-[Insert video recording link here]
+[Video recording link]https://drive.google.com/file/d/14fKrqCQIm7ta1k1BgTS1lJ7gp1T5bR4r/view?usp=drivesdk]
 
 ---
 
